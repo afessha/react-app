@@ -1,0 +1,17 @@
+table, th ,td{
+    border: 1px solid black;
+}
+table{
+    margin: 0 auto;
+}
+label{
+    font-weight: bold;
+}
+.submit{
+    background-color: blue;
+    width: 4rem;
+    color: white;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 2px;
+}
